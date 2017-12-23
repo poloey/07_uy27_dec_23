@@ -1,6 +1,26 @@
-for positioning 
+# Positioning 
+### absolute  and relative
+In order to make position  `absolute` I have to make element parent `relative`      
 
-* absolute 
+
+### css properties for positioning
+* absolute
 * relative
 * fixed
 * z-index
+
+#### some tag in html
+* b 
+* i
+* sub
+* sup
+* strong
+* em
+* code
+* q
+* blockquote
+* <!-- nicer block  ami formatting dekacci -->
+* responsive <meta name="viewport" content="width=device-width, initial-scale=1.0">
+* entity  &name; &#number; &#hexavalue;
+* video 
+* audio 
