@@ -1,0 +1,6 @@
+for positioning 
+
+* absolute 
+* relative
+* fixed
+* z-index
